@@ -4,7 +4,7 @@
 //
 //  Created by Xavi Loinaz on 5/21/16.
 //  Copyright © 2016 Xavi Loinaz. All rights reserved.
-// something
+//
 
 import UIKit
 
