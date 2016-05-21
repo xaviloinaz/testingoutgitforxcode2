@@ -6,8 +6,8 @@
 //  Copyright © 2016 Xavi Loinaz. All rights reserved.
 //
 
-// for branch2 I will only modify the ViewController.swift file
-// k
+// only branch11 has viewcontroller file modifications
+
 
 import UIKit
 
